@@ -178,19 +178,19 @@ body {
 /* EMBED IMAGES INTO TIMELINE CIRCLES: */
 
 #circle1 {
-    background-image: url(photos/blair-icon.jpg);
+    background-image: url(photos/blair-icon.png);
 }
 
 #circle2 {
-    background-image: url(photos/mused-icon.jpg);
+    background-image: url(photos/mused-icon.png);
 }
 
 #circle3 {
-    background-image: url(photos/amplifier-icon.jpg);
+    background-image: url(photos/amplifier-icon.png);
 }
 
 #circle4 {
-    background-image: url(photos/headshot.jpg);
+    background-image: url(photos/headshot.png);
 }
 
 #circle5 {
@@ -198,7 +198,7 @@ body {
 }
 
 #circle6 {
-    background-image: url(photos/tuba-icon.jpg);
+    background-image: url(photos/tuba-icon.png);
 }
 
 .main-timeline9 .circle span:after, .main-timeline9 .circle span:before {
